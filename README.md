@@ -1,1 +1,1 @@
-# DarkGram
+Please read README.pdf 
